@@ -1,0 +1,16 @@
+com.lyokone.location-jetified-window-1.0.0-beta04-0 C:\Users\Acer\.gradle\caches\transforms-3\003a22a5515e1f77f89701a46efbc2ec\transformed\jetified-window-1.0.0-beta04\res
+com.lyokone.location-jetified-window-java-1.0.0-beta04-1 C:\Users\Acer\.gradle\caches\transforms-3\3c0e35d493ccd3f2bb8b07f96b013b9c\transformed\jetified-window-java-1.0.0-beta04\res
+com.lyokone.location-media-1.0.0-2 C:\Users\Acer\.gradle\caches\transforms-3\3ec4cd359258c60be14fe77b7d91d557\transformed\media-1.0.0\res
+com.lyokone.location-jetified-annotation-experimental-1.1.0-3 C:\Users\Acer\.gradle\caches\transforms-3\717758e51a3aff0b90b2556f8994e808\transformed\jetified-annotation-experimental-1.1.0\res
+com.lyokone.location-jetified-play-services-basement-16.0.1-4 C:\Users\Acer\.gradle\caches\transforms-3\9d7741e08c6595b6adbd2eb504cffa89\transformed\jetified-play-services-basement-16.0.1\res
+com.lyokone.location-jetified-play-services-base-16.0.1-5 C:\Users\Acer\.gradle\caches\transforms-3\c058a2b47f75b7c9f9bcaa53bed8c135\transformed\jetified-play-services-base-16.0.1\res
+com.lyokone.location-core-1.6.0-6 C:\Users\Acer\.gradle\caches\transforms-3\cf72013d765e0f69e97cd3b9cbb09800\transformed\core-1.6.0\res
+com.lyokone.location-coordinatorlayout-1.0.0-7 C:\Users\Acer\.gradle\caches\transforms-3\daf3dffc0e005e5234f8ec4fc9f09fb6\transformed\coordinatorlayout-1.0.0\res
+com.lyokone.location-main-8 C:\Users\Acer\AppData\Local\Pub\Cache\hosted\pub.dev\location-4.4.0\android\src\main\res
+com.lyokone.location-release-9 C:\Users\Acer\AppData\Local\Pub\Cache\hosted\pub.dev\location-4.4.0\android\src\release\res
+com.lyokone.location-pngs-10 C:\Users\Acer\Videos\attendence_app\build\location\generated\res\pngs\release
+com.lyokone.location-resValues-11 C:\Users\Acer\Videos\attendence_app\build\location\generated\res\resValues\release
+com.lyokone.location-rs-12 C:\Users\Acer\Videos\attendence_app\build\location\generated\res\rs\release
+com.lyokone.location-mergeReleaseResources-13 C:\Users\Acer\Videos\attendence_app\build\location\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.lyokone.location-mergeReleaseResources-14 C:\Users\Acer\Videos\attendence_app\build\location\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.lyokone.location-merged_res-15 C:\Users\Acer\Videos\attendence_app\build\location\intermediates\merged_res\release
