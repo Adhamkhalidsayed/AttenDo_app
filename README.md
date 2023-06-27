@@ -2,6 +2,11 @@ In the modern education system, tracking attendance efficiently and accurately i
 
 Application Features:
 
+
+![WhatsApp Image 2023-06-13 at 20 36 02](https://github.com/Adhamkhalidsayed/AttenDo_app/assets/96948853/842e0a66-7c41-48a5-9b49-9d64178f46e2)
+
+
+
 1. Login and Main Screen:
 Upon launching the application, students are required to log in and this process happens only one time after downloading the app on the phone (no more logins). This ensures that each student can access the app securely and prevents multiple logins. Once authenticated, students are presented with the main screen. This screen offers a seamless and intuitive interface, where students can simply slide to check in or check out.
 
