@@ -2,10 +2,6 @@ In the modern education system, tracking attendance efficiently and accurately i
 
 Application Features:
 
-![WhatsApp Image 2023-06-13 at 20 36 02](https://github.com/Adhamkhalidsayed/AttenDo_app/assets/96948853/842e0a66-7c41-48a5-9b49-9d64178f46e2), ![WhatsApp Image 2023-06-13 at 20 43 45](https://github.com/Adhamkhalidsayed/AttenDo_app/assets/96948853/1a7ab082-9e7c-4a70-a026-5ac33a793515)
-
-
-
 1. Login and Main Screen:
 Upon launching the application, students are required to log in and this process happens only one time after downloading the app on the phone (no more logins). This ensures that each student can access the app securely and prevents multiple logins. Once authenticated, students are presented with the main screen. This screen offers a seamless and intuitive interface, where students can simply slide to check in or check out.
 
@@ -20,3 +16,5 @@ The application includes a dedicated calendar screen, providing a comprehensive 
 
 5. Profile Screen:
 The profile screen allows students to personalize their information and add relevant details. This feature promotes a sense of individuality and enables students to take ownership of their profiles. Students can edit their first name, last name, address, date of birth, and even upload a profile photo. By limiting profile edits to one instance, the application ensures data consistency and avoids frequent modifications.
+
+![WhatsApp Image 2023-06-13 at 20 43 45](https://github.com/Adhamkhalidsayed/AttenDo_app/assets/96948853/1a7ab082-9e7c-4a70-a026-5ac33a793515),![WhatsApp Image 2023-06-13 at 20 41 21](https://github.com/Adhamkhalidsayed/AttenDo_app/assets/96948853/6e759e40-c483-4cdd-9620-d5a0ae06ac8d),![WhatsApp Image 2023-06-13 at 20 36 02](https://github.com/Adhamkhalidsayed/AttenDo_app/assets/96948853/842e0a66-7c41-48a5-9b49-9d64178f46e2),![WhatsApp Image 2023-06-13 at 20 43 18](https://github.com/Adhamkhalidsayed/AttenDo_app/assets/96948853/1ae4c52f-802d-42b8-983a-23db27ddfdf4)
