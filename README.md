@@ -2,8 +2,7 @@ In the modern education system, tracking attendance efficiently and accurately i
 
 Application Features:
 
-
-![WhatsApp Image 2023-06-13 at 20 36 02](https://github.com/Adhamkhalidsayed/AttenDo_app/assets/96948853/842e0a66-7c41-48a5-9b49-9d64178f46e2)
+![WhatsApp Image 2023-06-13 at 20 36 02](https://github.com/Adhamkhalidsayed/AttenDo_app/assets/96948853/842e0a66-7c41-48a5-9b49-9d64178f46e2), ![WhatsApp Image 2023-06-13 at 20 43 45](https://github.com/Adhamkhalidsayed/AttenDo_app/assets/96948853/1a7ab082-9e7c-4a70-a026-5ac33a793515)
 
 
 
