@@ -1,8 +1,9 @@
+#README
 In the modern education system, tracking attendance efficiently and accurately is crucial for both students and institutions. To address this need, an attendance application has been developed using Flutter and Dart, along with the powerful Cloud Firestore database. 
 
-Application Features:
+##Application Features:
 
-1. Login and Main Screen:
+##Login and Main Screen:
 Upon launching the application, students are required to log in and this process happens only one time after downloading the app on the phone (no more logins). This ensures that each student can access the app securely and prevents multiple logins. Once authenticated, students are presented with the main screen. This screen offers a seamless and intuitive interface, where students can simply slide to check in or check out.
 
 ![WhatsApp Image 2023-06-13 at 20 36 02](https://github.com/Adhamkhalidsayed/AttenDo_app/assets/96948853/016d3269-1821-4d0f-96ff-b95a30299853), ![WhatsApp Image 2023-06-13 at 20 41 21](https://github.com/Adhamkhalidsayed/AttenDo_app/assets/96948853/65e8d0c6-9a50-424f-8288-ab80f4a39ac5)
